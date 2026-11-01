@@ -4,15 +4,11 @@
   "name": "JUG CH Bern",
   "country": "Switzerland",
   "source_file": "content/jugs/BernJUG.md",
-  "fetched_at": "2026-10-25T03:36:48+00:00",
+  "fetched_at": "2026-11-01T03:25:52+00:00",
   "sources": [
     {
       "kind": "calendar",
       "url": "https://www.jug.ch/events/bern/"
-    },
-    {
-      "kind": "calendar-ical",
-      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1029"
     },
     {
       "kind": "calendar-ical",

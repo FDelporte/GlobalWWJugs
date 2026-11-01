@@ -4,23 +4,11 @@
   "name": "Java User Group Switzerland",
   "country": "Switzerland",
   "source_file": "content/jugs/SwitzerlandJUG.md",
-  "fetched_at": "2026-10-25T03:38:33+00:00",
+  "fetched_at": "2026-11-01T03:28:05+00:00",
   "sources": [
     {
       "kind": "calendar",
       "url": "http://www.jug.ch"
-    },
-    {
-      "kind": "calendar-ical",
-      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1028"
-    },
-    {
-      "kind": "calendar-ical",
-      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1029"
-    },
-    {
-      "kind": "calendar-ical",
-      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1030"
     },
     {
       "kind": "calendar-ical",
@@ -33,10 +21,6 @@
     {
       "kind": "calendar-ical",
       "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1042"
-    },
-    {
-      "kind": "calendar-ical",
-      "url": "http://www.jug.ch/events/vcalendar/ical.php?event=1044"
     },
     {
       "kind": "calendar-ical",
