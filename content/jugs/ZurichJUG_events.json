@@ -4,7 +4,7 @@
   "name": "JUG CH Zürich",
   "country": "Switzerland",
   "source_file": "content/jugs/ZurichJUG.md",
-  "fetched_at": "2026-11-01T03:28:24+00:00",
+  "fetched_at": "2026-11-08T03:26:12+00:00",
   "sources": [
     {
       "kind": "calendar",
@@ -17,6 +17,10 @@
     {
       "kind": "calendar-ical",
       "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1042"
+    },
+    {
+      "kind": "calendar-ical",
+      "url": "https://www.jug.ch/events/vcalendar/ical.php?event=1046"
     }
   ],
   "events": [
