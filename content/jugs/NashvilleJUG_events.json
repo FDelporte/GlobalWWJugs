@@ -4,7 +4,7 @@
   "name": "Nashville JUG",
   "country": "United States",
   "source_file": "content/jugs/NashvilleJUG.md",
-  "fetched_at": "2026-11-15T03:25:20+00:00",
+  "fetched_at": "2026-11-22T03:25:59+00:00",
   "sources": [
     {
       "kind": "meetup",
@@ -16,5 +16,12 @@
     }
   ],
   "events": [],
-  "status": "ok"
+  "status": "fetch_error",
+  "errors": [
+    {
+      "kind": "meetup-ical",
+      "url": "https://www.meetup.com/nashvillejug/events/ical/",
+      "error": "HTTP status 404"
+    }
+  ]
 }
